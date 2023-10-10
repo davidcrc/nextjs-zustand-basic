@@ -27,3 +27,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ```bash
 yarn add zustand
 ```
+
+![alt text for screen readers](/resources/Screenshot_2023-10-10.png "Screen1")
